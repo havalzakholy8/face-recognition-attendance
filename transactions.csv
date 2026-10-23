@@ -1,0 +1,5 @@
+id,account_id,date,amount,description,category
+T1,A1,2024-11-15,-5000.0,Grocery shopping,food
+T2,A1,2024-11-15,-2000.0,Coffee shop,dining
+T3,A2,2024-11-16,100000.0,Monthly salary,work
+T4,A1,2024-11-16,-3500.0,Gas station,transport

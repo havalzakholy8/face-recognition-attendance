@@ -1,0 +1,4 @@
+id,month,category,limit_amount
+B1,2024-11,food,50000.0
+B2,2024-11,dining,20000.0
+B3,2024-11,transport,30000.0

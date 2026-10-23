@@ -1,0 +1,4 @@
+id,name,account_type,currency
+A1,My Wallet,cash,HUF
+A2,Bank Account,bank,EUR
+A3,Savings Account,bank,USD
